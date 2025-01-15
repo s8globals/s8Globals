@@ -1,0 +1,43 @@
+{
+  "name": "s8globals",
+  "version": "1.0.0",
+  "description": "A comprehensive digital platform showcasing innovative projects under the S8Globals brand",
+  "keywords": [
+    "backend",
+    "S8Globals",
+    "API",
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "database",
+    "web",
+    "development",
+    "server",
+    "REST",
+    "API"
+  ],
+  "homepage": "https://github.com/s8globals/s8Globals#readme",
+  "bugs": {
+    "url": "https://github.com/s8globals/s8Globals/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s8globals/s8Globals.git"
+  },
+  "license": "ISC",
+  "author": "Apatira Sulayman <apatirasulayman@gmail.com>",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
